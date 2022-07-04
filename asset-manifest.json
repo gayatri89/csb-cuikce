@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gayatri89.github.io/csb-cuikce/static/css/main.a5b5b008.chunk.css",
+    "main.js": "https://gayatri89.github.io/csb-cuikce/static/js/main.8e04e312.chunk.js",
+    "main.js.map": "https://gayatri89.github.io/csb-cuikce/static/js/main.8e04e312.chunk.js.map",
+    "runtime-main.js": "https://gayatri89.github.io/csb-cuikce/static/js/runtime-main.a79a0df9.js",
+    "runtime-main.js.map": "https://gayatri89.github.io/csb-cuikce/static/js/runtime-main.a79a0df9.js.map",
+    "static/js/2.79aa0528.chunk.js": "https://gayatri89.github.io/csb-cuikce/static/js/2.79aa0528.chunk.js",
+    "static/js/2.79aa0528.chunk.js.map": "https://gayatri89.github.io/csb-cuikce/static/js/2.79aa0528.chunk.js.map",
+    "index.html": "https://gayatri89.github.io/csb-cuikce/index.html",
+    "static/css/main.a5b5b008.chunk.css.map": "https://gayatri89.github.io/csb-cuikce/static/css/main.a5b5b008.chunk.css.map",
+    "static/js/2.79aa0528.chunk.js.LICENSE.txt": "https://gayatri89.github.io/csb-cuikce/static/js/2.79aa0528.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a79a0df9.js",
+    "static/js/2.79aa0528.chunk.js",
+    "static/css/main.a5b5b008.chunk.css",
+    "static/js/main.8e04e312.chunk.js"
+  ]
+}
